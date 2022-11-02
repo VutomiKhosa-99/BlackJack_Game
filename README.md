@@ -1,4 +1,4 @@
-# BLACKJACK GAME
+## BLACKJACK GAME
 
 This is a basic Blackjack game that I built. The inspiration came from following a tutorial via Scrimba.
 
